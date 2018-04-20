@@ -1,4 +1,4 @@
 info:
-  profile: gitconfig-dev
-  username: xiewei
-  password: 123456
+  profile: config-gitconfig-dev
+  username: config-gitconfig-dev-xiewei
+  password: config-gitconfig-dev-123456
